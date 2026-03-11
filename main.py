@@ -16,7 +16,7 @@ BUVID3 = "80FD5AFD-0565-40F9-0F52-72097F2DC9C211760infoc"
 TARGET_UP_NAME = "加密太空漫游者LV"
 
 # QQ 推送配置 (Zeabur 内部域名)
-NAPCAT_URL = "http://napcat-lekong.zeabur.internal:3000"
+NAPCAT_URL = "http://napcat.zeabur.internal:3000"
 NAPCAT_TOKEN = "LWgNFcEocsUjtuNV"
 TARGET_QQ = 1694881090
 TARGET_GROUP = 0  # 默认私聊推送
