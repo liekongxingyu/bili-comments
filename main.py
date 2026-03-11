@@ -22,7 +22,7 @@ TARGET_QQ = 1694881090
 TARGET_GROUP = 0  # 默认私聊推送
 
 # 监控频率 (秒)
-MONITOR_INTERVAL = 60 
+MONITOR_INTERVAL = 30 
 
 # ================= 2. 消息发送工具 =================
 async def send_qq_notification(text):
