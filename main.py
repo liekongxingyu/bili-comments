@@ -17,7 +17,7 @@ TARGET_UP_NAME = "加密太空漫游者LV"
 
 # QQ 推送配置 (Zeabur 内部域名)
 NAPCAT_URL = "http://napcat.zeabur.internal:3000"
-NAPCAT_TOKEN = "LWgNFcEocsUjtuNV"
+NAPCAT_TOKEN = "Qyogemq8qPENf9gq"
 TARGET_QQ = 1694881090
 TARGET_GROUP = 0  # 默认私聊推送
 
